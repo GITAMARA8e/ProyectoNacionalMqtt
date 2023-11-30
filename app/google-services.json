@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1041437422768",
+    "firebase_url": "https://verduras-a41df-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "verduras-a41df",
+    "storage_bucket": "verduras-a41df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041437422768:android:1e6087b58bbe1921b6f775",
+        "android_client_info": {
+          "package_name": "twin.developers.projectmqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX5RLGPV3qLtBhpYIK3l0XIuNoGtZSXQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
